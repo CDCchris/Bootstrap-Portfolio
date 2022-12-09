@@ -19,3 +19,12 @@ body {
 
 
 
+.container {
+    margin: 50px;
+    padding: 10px;
+}
+
+.card {
+    margin: 10px;
+}
+
