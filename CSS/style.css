@@ -4,9 +4,11 @@ body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     line-height: 1.5;
     background-color: whitesmoke;
-    
-  
-  }
+
+
+}
+
+
 
 #profile {
     height: 200px;
@@ -22,29 +24,47 @@ body {
 .container {
     margin: 50px;
     padding: 10px;
+    justify-content: center;
 }
 
 .card {
-    margin: 10px;
+   margin: 10px;
 }
-
 
 .flex-container {
     display: flex;
     background-color: whitesmoke;
-    background-image: linear-gradient(to bottom right, grey, black)
-  }
-  
-  .flex-container > div {
+    background-image: linear-gradient(to bottom right, grey, black);
+    padding: 1px;
+}
+
+.flex-container>div {
     background-color: whitesmoke;
     margin: 1px;
     padding: 10px;
     font-size: 30px;
-    
-  }
 
-  #contact {
+}
+
+
+
+
+#contact {
     text-decoration: underline;
-  }
+}
 
- 
+#bottom-card {
+    width: 350px;
+    
+    
+}
+
+.row {
+    overflow: hidden;
+}
+
+
+.furniture-site stretched-link{
+
+    max-width: 100px;
+}
