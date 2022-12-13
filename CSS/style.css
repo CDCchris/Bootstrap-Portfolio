@@ -28,3 +28,17 @@ body {
     margin: 10px;
 }
 
+
+.flex-container {
+    display: flex;
+    background-color: whitesmoke;
+    background-image: linear-gradient(to bottom right, grey, black)
+  }
+  
+  .flex-container > div {
+    background-color: whitesmoke;
+    margin: 5px;
+    padding: 20px;
+    font-size: 30px;
+    
+  }
