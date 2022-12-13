@@ -37,8 +37,14 @@ body {
   
   .flex-container > div {
     background-color: whitesmoke;
-    margin: 5px;
-    padding: 20px;
+    margin: 1px;
+    padding: 10px;
     font-size: 30px;
     
   }
+
+  #contact {
+    text-decoration: underline;
+  }
+
+ 
