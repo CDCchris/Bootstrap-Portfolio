@@ -1,7 +1,7 @@
 # Bootstrap-Portfolio
 
 
-https://cdcchris.github.io/Portfolio/
+https://cdcchris.github.io/Bootstrap-Portfolio/
 
 ## Description
 
